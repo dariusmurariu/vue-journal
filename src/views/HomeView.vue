@@ -11,6 +11,7 @@
 
 <script>
 export default{
+  // test
   methods: {
     goToDayBook(){
       this.$router.push({name: 'no-entry'})
